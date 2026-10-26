@@ -4,6 +4,8 @@
 ## Choosing a topic
 The topic I chose to focus this project on was hospitals and healthcare. I chose this topic because I have always wanted to learn more about hospitals and anything that is related to the medical field. If I would have not chosen this topic, then i would have chosen banking/mortgage. This was my second, or backup, option because it was also a topic that I was interested in and wanted to learn and do more research on. At the end, i decided on hospitals and healthcare because it has always been my number one choice on what ive wanted to learn more about. 
 Some links i used that helped me learn more about my topic were "https://pmc.ncbi.nlm.nih.gov/articles/PMC9601636/" and "https://www.ibm.com/think/topics/healthcare-technology".
-[Next](entry02.md)
 
+## Engineering Deisgn Process
+
+[Next](entry02.md)
 [Home](../README.md)
