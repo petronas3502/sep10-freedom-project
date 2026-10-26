@@ -10,8 +10,10 @@ Right now, I'm in the first phase, or step, of the engineering design process wh
 
 ## Skills
 For this project, I will be using a few skills. 
+
 ***Researching***
 This skill will help me in my project because it will help and guide me in getting the information i need to write avout my topic.
+
 ***Time management***
 This skill will also help me throughout my oroject because it will allow me to be able to do my work in a specific amount of time without distractions and staying focused.
 
