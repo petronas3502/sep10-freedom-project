@@ -8,6 +8,8 @@ Some links i used that helped me learn more about my topic were "https://pmc.ncb
 ## Engineering Deisgn Process
 Right now, I'm in the first phase, or step, of the engineering design process where interpreting the problem is the main goal to work/focus on. With my project, I hope to address the issue of people's lack of knowledge about the field of hospitals and healthcare. The next step is to do research on the issue.
 
+## Skills
 
 [Next](entry02.md)
+
 [Home](../README.md)
