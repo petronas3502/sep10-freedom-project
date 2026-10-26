@@ -10,7 +10,7 @@ Right now, I'm in the first phase, or step, of the engineering design process wh
 
 ## Skills
 For this project, I will be using a few skills. 
-### Researching 
+#### Researching 
 [Next](entry02.md)
 
 [Home](../README.md)
