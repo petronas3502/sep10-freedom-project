@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Hospitals/healthcare**
 
 ## Overview/Introduction/Context
 * Text
@@ -8,9 +8,9 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* MyChart
   * Detail
-  * [image text](image URL)
+  * [MyChart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0n2yqqqXDX8w1Cwk-nOt8fjPrBz5B2fGg282MSDgd1AWI7jNbSbYdo8&s=10)
 
 ##### Hardware
 * Tech
