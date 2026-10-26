@@ -6,6 +6,8 @@ The topic I chose to focus this project on was hospitals and healthcare. I chose
 Some links i used that helped me learn more about my topic were "https://pmc.ncbi.nlm.nih.gov/articles/PMC9601636/" and "https://www.ibm.com/think/topics/healthcare-technology".
 
 ## Engineering Deisgn Process
+Right now, I'm in the first phase, or step, of the engineering design process where interpreting the problem is the main goal to work/focus on. With my project, I hope to address the issue of people's lack of knowledge about the field of hospitals and healthcare. The next step is to do research on the issue.
+
 
 [Next](entry02.md)
 [Home](../README.md)
