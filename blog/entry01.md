@@ -9,7 +9,8 @@ Some links i used that helped me learn more about my topic were "https://pmc.ncb
 Right now, I'm in the first phase, or step, of the engineering design process where interpreting the problem is the main goal to work/focus on. With my project, I hope to address the issue of people's lack of knowledge about the field of hospitals and healthcare. The next step is to do research on the issue.
 
 ## Skills
-
+For this project, I will be using a few skills. 
+### Researching 
 [Next](entry02.md)
 
 [Home](../README.md)
