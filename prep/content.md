@@ -19,7 +19,7 @@ Topic: **Hospitals/healthcare**
   * available in all languages
   * [Teladoc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNCJHfIgN5QHtoeEh0vDO6-5bHNwn-KqwBgdQWZRuBVv7paX5qnkRpi8s&s=10)
 * Medisafe
-  *helps users manage chronic conditions by sending reminders to take medications
+  * helps users manage chronic conditions by sending reminders to take medications
   * virtual pillbox notifications
   * tracks progress with daily and weekly reports
   * caregiver support
