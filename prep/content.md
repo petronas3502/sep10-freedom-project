@@ -25,9 +25,13 @@ Topic: **Hospitals/healthcare**
   * caregiver support
   * [Medisafe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5XMqZOoOcgL4vZSuVdsTAcgyLi1Tc6AB9EhmTXmH9rPOA4JCd_fqSsbU&s=10)
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* electrocardiogram
+  * test how the heart is beating
+  * checks electrical signals in the heart
+  * helps find or detect heart attacks and irregular heartbeats
+  * helps with related problems in the body but more specifically the chest area where the heart is
+  * link I used https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983
+  * [Electrocardiogram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnkdtvJsarwMx-6_2HKt8deKayeD11sKOVoDU4QnqNQ&s)
 
 ## Part B: possible future technology
 * Idea
