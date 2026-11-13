@@ -2,8 +2,8 @@
 Topic: **Hospitals/healthcare**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Healthcare is simething that has developed over time where people take care of their health and bodies.
+* Hospitals have also developed over time from simple places to help someone with their health to complex tools and machines being used.
 
 ## Part A: existing technology
 
