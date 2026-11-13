@@ -6,7 +6,7 @@ Topic: **Hospitals/healthcare**
 * Hospitals have also developed over time from simple places to help someone with their health to complex tools and machines being used.
 
 ## Categories
-## Most complex 
+* Most complex 
 * Electrocardiogram 
   * test how the heart is beating
   * checks electrical signals in the heart
@@ -19,7 +19,7 @@ Topic: **Hospitals/healthcare**
   * Notifies you on upcoming appointments and test results.
   * Provides summaries on appointments and information on any health concerns and any medications needed.
   * [MyChart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0n2yqqqXDX8w1Cwk-nOt8fjPrBz5B2fGg282MSDgd1AWI7jNbSbYdo8&s=10)
-## Mildy complex
+* Mildy complex
 * Diathermy
   * used in electrosurgery, a technique often used in surgery to control bleeding and to rapidly dissect soft tissue in surgery
   * produces high frequency electrical current to cut, coagulate, dessicate, and fulgarate tissue
@@ -32,7 +32,7 @@ Topic: **Hospitals/healthcare**
   * options to prescribe medication
   * available in all languages
   * [Teladoc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNCJHfIgN5QHtoeEh0vDO6-5bHNwn-KqwBgdQWZRuBVv7paX5qnkRpi8s&s=10)
-## Least complex 
+* Least complex 
 * Nebulizer
   * turns liquid medicine into a mist that can be easily inhaled
   * used for people with lung diseases
