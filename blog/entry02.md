@@ -10,7 +10,7 @@ to others, *unknown*. <a href="https://www.capterra.com/sem/medical-scheduling-s
 
 ## Engineering Design Process (EDP)
 In this stage, i have gathered information of software and hardware for my topic. And after gayhering the information, i have organized them from most complex to least complex in the way they are used by people.
-My next steps would be
+My next steps would be researching on possible future technology that can be used and helpful in hospitals and healthcare and continuing to help teach people about technologies and gadgets that are used and important in hospitals and heslthcare that they may not have any knowledge on yet.
 
 
 ## Skills
