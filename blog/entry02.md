@@ -14,6 +14,11 @@ My next steps would be researching on possible future technology that can be use
 
 
 ## Skills
+So far in this project, I have improved on a few skills such as:
+### Problem Decomposition 
+
+### Consideration 
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
