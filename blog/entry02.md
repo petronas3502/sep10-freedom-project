@@ -9,8 +9,8 @@ to others, *unknown*. <a href="https://www.capterra.com/sem/medical-scheduling-s
 <a href="https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983">This website</a> is one of the websites i used to find information on ***one*** of the gadgets i wrote about which was the electrocardiogram. After i did all the research and gathered my gadgets and apps, i organized them from most complex to least complex.
 
 ## Engineering Design Process (EDP)
-In this stage, i have gathered information of software and hardware for my topic. And after gayhering the information, i have organized them from most complex to least complex in the way they are used by people.
-My next steps would be researching on possible future technology that can be used and helpful in hospitals and healthcare and continuing to help teach people about technologies and gadgets that are used and important in hospitals and heslthcare that they may not have any knowledge on yet.
+In this stage, i have gathered information on software and hardware for my topic. And after gathering the information, I have organized them from most complex to least complex in the way they are used by people.
+My next steps would be researching on possible future technology that can be used and helpful in hospitals and healthcare and continuing to help teach people about technologies and gadgets that are used and important in hospitals and healthcare now and in the future that they may not have any knowledge on yet.
 
 
 ## Skills
