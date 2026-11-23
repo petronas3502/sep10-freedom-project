@@ -16,9 +16,14 @@ My next steps would be researching on possible future technology that can be use
 ## Skills
 So far in this project, I have improved on a few skills such as:
 
-*** Problem Decomposition 
+***Problem Decomposition***
+I have improved on this skill because before i was not able to deal with issues/problems i had to face which made me stressed out in not knowing what to do. 
+Over time while working on this project and the tasts i had to get done such as doing research on different things, i was able to learn and improve on my problem solving skills by breaking them down into smaller 
+bits to be able to work on them little by little until that problem was solved and fixed.
 
-*** Consideration 
+***Consideration***
+I have improved on this skill because it has helped me think deeper about the possible outcomes my information could have on people/others and think if i should make any changes or not
+in what i have. I have also improved in this skill because it has made my thinking increase more on how i can improve my oroject and make it better for those who are viewing it. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
