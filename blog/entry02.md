@@ -1,7 +1,7 @@
 # Entry 2
 ##### 11/16/26
 
-Text
+### Content
 
 [Previous](entry01.md) | [Next](entry03.md)
 
